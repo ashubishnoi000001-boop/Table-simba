@@ -12,6 +12,7 @@
 .container-hero {
     max-width: 1960px;
     min-height: 1673px;
+    padding: 0 20px;
 }
 
 .row-hero {
@@ -221,6 +222,7 @@ section {
 
     .img-2 {
         margin: 0;
+        width: 100%;
     }
 
     .img-3 {
